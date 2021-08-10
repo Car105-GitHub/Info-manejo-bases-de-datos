@@ -1,4 +1,4 @@
-package manejo.bases.datos.sqlite;
+
 
 /**
  * Hello world!
